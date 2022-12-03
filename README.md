@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @plotzZzky
-- 👀 I’m interested in python, linux, back-end, arduino.
-- 🌱 I’m currently learning Flask.
+- 👀 I’m interested in python, back-end web e linux.
+- 🌱 I’m currently learning Flask e JavaScript.
 - 💞️ I’m looking to collaborate on python projects.
-- knowledge = [Python, Flask, PostgreSQL, Sqlite, mongoDb, Back-end, Kivy, Restapi, pytest,  html, css, postman...]
+- knowledge = [Python, Flask, PostgreSQL, Back-end, Html, Css, JavaScript...]
 
 <!---
 plotzZzky/plotzZzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
