@@ -4,7 +4,7 @@
 
 ## Contatos:
 <h1>
-   <a decoration="none" href="https://www.linkedin.com/in/daniel-plotzky-de-castro-027a48252">
+   <a decoration="none" href="mailto:dev.plotzky@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
    </a>
       
