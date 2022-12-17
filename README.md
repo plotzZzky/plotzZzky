@@ -31,7 +31,7 @@
 ## Atualmente estou estudando:
 
 <h1>
- <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+ <img src="https://img.shields.io/badge/django-ff1709?style=for-the-badge&logo=django&logoColor=white" />
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </h1>
 
