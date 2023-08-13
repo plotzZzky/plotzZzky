@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Olá, meu nome é Daniel plotzky sou desenvolver Back-End Web. </>
+<h3> Olá, sou um desenvolvedor fullstack web empenhado em aprender e agregar valor a projetos desafiadores, buscando aprimorar minhas habilidades e progredir no campo da programação.</>
 
 ## Contatos:
 <h1>
