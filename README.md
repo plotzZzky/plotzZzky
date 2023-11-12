@@ -1,6 +1,7 @@
 
 <div align="center">
-<h3> Olá, sou um desenvolvedor fullstack web empenhado em aprender e agregar valor a projetos desafiadores, buscando aprimorar minhas habilidades e progredir no campo da programação.</>
+   
+### Olá, sou um desenvolvedor fullstack web empenhado em aprender e agregar valor a projetos desafiadores, buscando aprimorar minhas habilidades e progredir no campo da programação.
 
 ## Contatos:
 <h1>
@@ -12,7 +13,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 </h1>
-
 
 
 ## Minhas principais habilidades são:
@@ -41,7 +41,7 @@
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </h2>
 
-## Atualmente estou estudando:
+### Atualmente estou estudando:
 
 <h1>
    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
