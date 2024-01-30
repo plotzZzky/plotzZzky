@@ -1,8 +1,8 @@
 
 
    
-### Olá! Sou um desenvolvedor backend especializado em Python e Django, focado na criação de soluções robustas e eficientes. Esta conta reflete minha jornada profissional, onde busco constantemente desafios inovadores e oportunidades de crescimento.
-### Caso tenha algum projeto em mente, não deixe de falar comigo. Vamos codar algo extraordinário juntos! 🚀
+#### Olá! Sou um desenvolvedor backend especializado em Python e Django, focado na criação de soluções robustas e eficientes. Esta conta reflete minha jornada profissional, onde busco constantemente desafios inovadores e oportunidades de crescimento.
+#### Caso tenha algum projeto em mente, não deixe de falar comigo. Vamos codar algo extraordinário juntos! 🚀
 
 <div align="center">
    
@@ -19,6 +19,7 @@
    ## Minhas principais habilidades são:
    
    ### Back-end
+   
    <div>  
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -28,6 +29,7 @@
    </div>
    
    ### Front-end
+   
    <div>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,6 +40,7 @@
    </div>
    
    ### Outros
+   
    <div>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -50,6 +53,8 @@
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
    </div>
+   
+---
 
    <div>
      <h3> Statisticas: </h3>
