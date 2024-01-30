@@ -1,8 +1,8 @@
 
 
    
-#### Olá! Sou um desenvolvedor backend especializado em Python e Django, focado na criação de soluções robustas e eficientes. Esta conta reflete minha jornada profissional, onde busco constantemente desafios inovadores e oportunidades de crescimento.
-#### Caso tenha algum projeto em mente, não deixe de falar comigo. Vamos codar algo extraordinário juntos! 🚀
+### Olá! Sou um desenvolvedor backend especializado em Python e Django, focado na criação de soluções robustas e eficientes. Esta conta reflete minha jornada profissional, onde busco constantemente desafios inovadores e oportunidades de crescimento.
+### Caso tenha algum projeto em mente, não deixe de falar comigo. Vamos codar algo extraordinário juntos! 🚀
 
 <div align="center">
    
