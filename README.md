@@ -6,16 +6,6 @@
 
 <div align="center">
    
-   ## Contatos:
-   <div>
-      <span decoration="none" href="mailto:dev.plotzky@gmail.com">
-         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </span> 
-      <span href="https://www.linkedin.com/in/dev-daniel-plotzky">
-         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </span>
-   </div>
-   
    ## Minhas principais habilidades são:
    
    ### Back-end
