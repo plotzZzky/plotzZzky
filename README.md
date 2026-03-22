@@ -1,7 +1,7 @@
 
 ### Sobre mim:
 
-Sou estudante de **Cybersegurança**, especializado em **Python** e **Bash**.  
+Estudante de **Cybersegurança**, especializado em **Python**, **Bash** e **Linux**.  
 
 Meu objetivo é desenvolver habilidades técnicas em segurança da informação e aplicar conhecimentos em projetos práticos que demonstrem competências em cibersegurança, automação, web e linux.
 
